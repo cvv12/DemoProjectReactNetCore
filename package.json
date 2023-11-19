@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/jest": "^29.5.8",
+    "@types/node": "^20.9.0",
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "antd": "^5.11.1",
+    "axios": "^1.6.1",
+    "typescript": "^5.2.2"
+  }
+}
